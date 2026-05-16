@@ -1,5 +1,18 @@
-# 💫 About Me:
-I'm looking to collaborate on Instagram.<br>I'm currently learning Next.Js<br>Ask me About Sports<br>Fun Facts:<br><br>I am a Dog lover<br>I prefer coffee over Tea<br>Bleach is my Favourite Anime<br>Hobbies: Anime, Gym, Building Things
+# 💫 Hey There, I'm Nikhil Pathak:
+
+I desgin and build whatever I can Imagine.
+
+If an Idea pops into my head, chances are I,ll build and ship it.
+
+Fun Facts:
+1. I have two cats
+2. I don't like coffee or tea
+3. Bleach is My Fav Anime
+4. Hobbies: Anime, Gym, Building Repos
+
+
+
+
 
 
 ## 🌐 Socials:
