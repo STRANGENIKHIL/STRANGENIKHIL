@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="1920" height="1200" alt="822128" src="https://github.com/user-attachments/assets/17085aff-fae9-4402-8209-004bd25aa911" />
-
 I'm Nikhil, a software engineer based in India.
 
 I design and build whatever i can imagine.
