@@ -5,7 +5,7 @@ I desgin and build whatever I can Imagine.
 If an Idea pops into my head, chances are I,ll build and ship it.
 
 Fun Facts:
-1. I have two cats
+1. I am A Dog Lover
 2. I don't like coffee or tea
 3. Bleach is My Fav Anime
 4. Hobbies: Anime, Gym, Building Repos
